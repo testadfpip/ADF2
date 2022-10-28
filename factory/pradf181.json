@@ -1,0 +1,9 @@
+{
+	"name": "pradf181",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da0a6f7a-e592-48ac-a793-b0e4fab583ec",
+		"tenantId": "825a25d6-16e6-4c49-9990-eddf6acfd605"
+	}
+}
